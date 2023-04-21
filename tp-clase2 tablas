@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel = "stylesheet" type="text/css" href="estilo.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="2" align="center">
+        <thead>
+          <tr>
+            <th>Día</th>
+            <th>Horario de atención</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Lunes</td>
+            <td>8:00am - 12:00pm<br>3:00pm - 7:00pm</td>
+          </tr>
+          <tr>
+            <td>Martes</td>
+            <td>8:00am - 12:00pm<br>3:00pm - 7:00pm</td>
+          </tr>
+          <tr>
+            <td>Miércoles</td>
+            <td>8:00am - 12:00pm<br>3:00pm - 7:00pm</td>
+          </tr>
+          <tr>
+            <td>Jueves</td>
+            <td>8:00am - 12:00pm<br>3:00pm - 7:00pm</td>
+          </tr>
+          <tr>
+            <td>Viernes</td>
+            <td>8:00am - 12:00pm<br>3:00pm - 7:00pm</td>
+          </tr>
+        </tbody>
+      </table>
+    
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
+
+nav li {
+    display: inline block;
+    float: right;
+    list-style: none;
+    padding: 10px;
+}
+
+table {
+ width: 100%;
+ 
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    width: auto;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel = "stylesheet" type="text/css" href="estilo.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="javascript.js"></script>
+    <title>Ferreteria</title>
+    <nav>
+        <a href="pagina3.html"><li>Ubicación</li></a>
+        <a href="pagina2.html"><li>Horario de Atención</li></a>
+        <a href="pagina4.html"><li>Contacto</li></a>
+        <a href="pagina5.html"><li>Quienes somos</li></a>
+    </nav>
+</head>
+<body>
+   
+    <h1>  Bienvenido a mi pagina de Ferreteria </h1>
+    <h2>  Las mejores Herramientas </h2>
+    <h3>  Precios imbatibles </h3>
+    <h4>  Estamos para quedarnos </h4>
+    <h5>  Presupuesto sin cargo </h5>
+    <h6>    Envios gratis a todo el pais</h6>
+
+    <p> Somos una ferreteria con mas de 10 años en el rubro con mas de 3 generaciones de experiencia
+          brindamos soluciones y descuentos</p>
+
+    <img src ="https://koosh.com.ar/wp-content/uploads/Ferreteria-1024x595.jpg ">
+</main>
+</body>
+</html>
