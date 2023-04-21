@@ -1,3 +1,57 @@
+
+
+nav li {
+    display: inline block;
+    float: right;
+    list-style: none;
+    padding: 10px;
+}
+
+table {
+ width: 100%;
+ 
+}
+
+th, td {
+    text-align: center;
+}
+
+img {
+    width: auto;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel = "stylesheet" type="text/css" href="estilo.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="javascript.js"></script>
+    <title>Ferreteria</title>
+    <nav>
+        <a href="pagina3.html"><li>Ubicación</li></a>
+        <a href="pagina2.html"><li>Horario de Atención</li></a>
+        <a href="pagina4.html"><li>Contacto</li></a>
+        <a href="pagina5.html"><li>Quienes somos</li></a>
+    </nav>
+</head>
+<body>
+   
+    <h1>  Bienvenido a mi pagina de Ferreteria </h1>
+    <h2>  Las mejores Herramientas </h2>
+    <h3>  Precios imbatibles </h3>
+    <h4>  Estamos para quedarnos </h4>
+    <h5>  Presupuesto sin cargo </h5>
+    <h6>    Envios gratis a todo el pais</h6>
+
+    <p> Somos una ferreteria con mas de 10 años en el rubro con mas de 3 generaciones de experiencia
+          brindamos soluciones y descuentos</p>
+
+    <img src ="https://koosh.com.ar/wp-content/uploads/Ferreteria-1024x595.jpg ">
+</main>
+</body>
+</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,58 +106,5 @@
 </head>
 <body>
     
-</body>
-</html>
-
-nav li {
-    display: inline block;
-    float: right;
-    list-style: none;
-    padding: 10px;
-}
-
-table {
- width: 100%;
- 
-}
-
-th, td {
-    text-align: center;
-}
-
-img {
-    width: auto;
-}
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link rel = "stylesheet" type="text/css" href="estilo.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="javascript.js"></script>
-    <title>Ferreteria</title>
-    <nav>
-        <a href="pagina3.html"><li>Ubicación</li></a>
-        <a href="pagina2.html"><li>Horario de Atención</li></a>
-        <a href="pagina4.html"><li>Contacto</li></a>
-        <a href="pagina5.html"><li>Quienes somos</li></a>
-    </nav>
-</head>
-<body>
-   
-    <h1>  Bienvenido a mi pagina de Ferreteria </h1>
-    <h2>  Las mejores Herramientas </h2>
-    <h3>  Precios imbatibles </h3>
-    <h4>  Estamos para quedarnos </h4>
-    <h5>  Presupuesto sin cargo </h5>
-    <h6>    Envios gratis a todo el pais</h6>
-
-    <p> Somos una ferreteria con mas de 10 años en el rubro con mas de 3 generaciones de experiencia
-          brindamos soluciones y descuentos</p>
-
-    <img src ="https://koosh.com.ar/wp-content/uploads/Ferreteria-1024x595.jpg ">
-</main>
 </body>
 </html>
